@@ -45,7 +45,7 @@ msgstr "Excitación"
 #: 5.4\assets\scripts\goals\types\coastersgoal.cs:22
 #: 5.4\assets\scripts\ui\windows\overview\attractionsoverviewtab.cs:26
 msgid "Intensity"
-msgstr "Intensidad"
+msgstr "aIntensidad"
 
 #: c:\work\parkitect unity 5.4\assets\scripts\blueprintfile.cs:119
 #: 5.4\assets\scripts\ui\windows\parkvisualizerswindow.cs:46
